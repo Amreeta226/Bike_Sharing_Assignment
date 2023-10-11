@@ -18,6 +18,9 @@ A US bike-sharing provider BoomBikes has a daily dataset on the rental bikes bas
 The company wants to know:
 Which variables are significant in predicting the demand for shared bikes.
 How well those variables describe the bike demands.
+
+Upgrad_Assignment
+Amreeta S
 The Solution is divided into the following sections:
 -  Data Understanding and exploration
 -  Data Visualisation
